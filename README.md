@@ -110,9 +110,11 @@ php artisan serve --port=8001
 php artisan serve --port=9000
 ```
 
-✔ No interference
-✔ All apps run independently
-✔ Perfect for testing and development
+- No interference
+  
+- All apps run independently
+  
+- Perfect for testing and development
 
 ---
 
@@ -169,4 +171,23 @@ Example:
 ```bash
 php artisan serve --port=7000
 ```
-Your Project is Raedy!
+---
+# Output:
+
+---
+Port Number: 8001
+```
+http://localhost:8001
+```
+<img width="1919" height="1085" alt="Screenshot 2025-12-11 161949" src="https://github.com/user-attachments/assets/4e6208b7-24e7-4fe5-b5a2-aa4b2d8a30bb" />
+
+---
+Port Number: 9000
+```
+http://localhost:9000
+```
+<img width="1919" height="1089" alt="Screenshot 2025-12-11 162305" src="https://github.com/user-attachments/assets/c546cefb-95dd-4858-9b9a-2571b77e0586" />
+
+---
+
+Your PHP_Laravel12_Run_Project_On_Different_Port Project is Raedy!
