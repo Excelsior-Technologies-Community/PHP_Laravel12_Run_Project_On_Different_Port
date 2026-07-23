@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Routing\Controller as BaseController;
+use Illuminate\Routing\Controller as BaseController; 
 use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\Artisan;
 
